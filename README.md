@@ -1,4 +1,4 @@
-‚±‚ê‚ÍƒTƒ“ƒvƒ‹‚Å‚·B
+ã“ã‚Œã¯ã‚µãƒ³ãƒ—ãƒ«ã§ã™ã€‚
 
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
 by ***
